@@ -1,0 +1,12 @@
+bitsandbytes 
+datasets 
+loralib 
+einops 
+transformers 
+peft 
+accelerate 
+tiktoken 
+sentence-transformers 
+Flask
+optimum
+auto-gptq
